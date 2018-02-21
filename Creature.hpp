@@ -7,7 +7,7 @@
 
 
 
-class Bio{
+class Creature{
 private:
     /// Time of creature's life
     long int lifetime;
