@@ -8,12 +8,12 @@
 
 
 class Bio{
- private:
-  long int lifetime; /// time of life
-  //TODO other attributes
- public:
-  //TODO: main virtual methods
-
+private:
+    /// Time of creature's life
+    long int lifetime;
+    //TODO other attributes
+public:
+    //TODO: main virtual methods
 };
 
 
